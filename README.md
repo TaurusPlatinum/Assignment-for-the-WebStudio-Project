@@ -89,27 +89,6 @@ Push to the branch and open a PR
 
 Please keep commits atomic and write clear commit messages.
 
-📜 License
-This project is licensed under the MIT License — see the LICENSE file for details.
-
 ✉️ Contact / Author
-Your Name — youremail@example.com
 
-GitHub: https://github.com/your-username
-
-Russian / Русский
-WebStudio — шаблон одностраничного сайта
-Современный, отзывчивый шаблон для digital-студии или лендинга портфолио.
-
-Особенности
-Семантическая и доступная HTML-разметка
-
-Адаптивная сетка (Flexbox / Grid)
-
-Подключены шрифты Raleway & Roboto
-
-Плавный скролл по якорям
-
-Акцент на CTA-кнопке
-
-Удобно расширять: бургер-меню, анимации, форма контактов
+GitHub: https://github.com/TaurusPlatinum

@@ -37,7 +37,7 @@ webstudio/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/webstudio.git
+git clone https://github.com/TaurusPlatinum/Assignment-for-the-WebStudio-Project
 cd webstudio
 Open index.html in a browser — or run a simple static server:
 

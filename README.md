@@ -1,21 +1,10 @@
 # Assignment-for-the-WebStudio-Project
 
-<!-- badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#license)
-[![Author](https://img.shields.io/badge/author-YourName-blue.svg)](#author)
-[![Status](https://img.shields.io/badge/status-Prototype-yellow.svg)](#)
 
 # WebStudio — One-page Digital Agency Template
 
 > Modern, responsive, and minimal one-page template for a digital/web studio.  
 > A clean starting point for portfolio sites, agency landing pages, and test assignments.
-
----
-
-## 🚀 Demo
-
-> Insert your demo link here (GitHub Pages, Netlify, Vercel):  
-> `https://your-username.github.io/webstudio/`
 
 ---
 

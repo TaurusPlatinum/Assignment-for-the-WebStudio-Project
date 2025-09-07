@@ -31,9 +31,6 @@ webstudio/
 │ └─ ...
 └─ README.md
 
-yaml
-Копировать код
-
 ---
 
 ## 🛠️ Installation & Local Preview
@@ -46,14 +43,10 @@ Open index.html in a browser — or run a simple static server:
 
 Using Python 3:
 
-bash
-Копировать код
 python -m http.server 8000
 # open http://localhost:8000
 Using Node (http-server):
 
-bash
-Копировать код
 npx http-server -c-1
 # open the printed URL
 🧩 How to use / Customize
